@@ -13,6 +13,7 @@
 " License: MIT
 
 set background=dark
+set termguicolors
 
 if version > 580
 	hi clear
@@ -125,22 +126,22 @@ hi Variable		guifg=#60b6b6
 "PALLETE
 "		Normal
 "00 BLCK	#110022
-"01 DRED	#b66060 ONLY IN COLOR COLUMN (ALT COMMENT COLOR)
-"02 DGRN	#60a0b6 NOT_USED
-"03 DYLW	#b68b60 SPECIAL TODO
-"04 DBLU	#3a3a7e DiffADD
-"05 DMAG	#8b60b6 STRINGS
-"06 DCYN	#8bb660 MATCH_PAREN
+"01 DRED	#b66060
+"02 DGRN	#60a0b6
+"03 DYLW	#b68b60
+"04 DBLU	#3a3a7e
+"05 DMAG	#8b60b6
+"06 DCYN	#8bb660
 "07 LGRY	#608bb6
-"                               
-"		                Bright
+"                      
+"		       
 "08 DGRY	#284057
-"09 LRED	#b6608b ERRORS (keep red)
-"10 LGRN	#60b6b6 (keep green)
-"11 LYLW	#a28000 KEYWORDS+ SEARCH_BCKGRND
-"12 LBLU	#7660b6 UNDERLINE and EOB  
-"13 LMAG	#b660b6 TITLE PREPROC
-"14 LCYN	#6060b6 FUNCTION IDENTIFIER MODEMSG (POP)
-"15 WHIT	#ffffff ERROR PMENU
-"00 BLND	#3a5c7e FOLDED AND # TEXT
-"00 BLK2	#330055 FOLDED AND # BCKGND
+"09 LRED	#b6608b
+"10 LGRN	#60b6b6
+"11 LYLW	#a28000
+"12 LBLU	#7660b6
+"13 LMAG	#b660b6
+"14 LCYN	#6060b6
+"15 WHIT	#ffffff
+"00 BLND	#3a5c7e
+"00 BLK2	#330055
