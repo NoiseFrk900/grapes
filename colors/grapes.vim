@@ -1,16 +1,11 @@
-" _   _  _____  ___
-"| \ | ||  ___|/ _ \
-"|  \| || |_  | (_) |
-"| |\  ||  _|  \__, |
-"|_| \_||_|      /_/
-"
-" grapes.vim
-" vim colorscheme
-" Maintainer: <NoiseFrk900>
-" Created: 2021/08/10
-" Project: grapes
-" Repository: https://github.com/noisefrk900/grapes.vim
-" License: MIT
+" ============================================================================
+" Name:     Grapes vim colorscheme
+" Author:   NoiseFrk900 <NoiseFreak900@gmail.com>  
+" URL:      https://github.com/noisefrk900/hrrypttr.git  
+" License:  MIT license
+" Created:  In a winepress
+" Modified: 2021-08-14
+" ============================================================================
 
 set background=dark
 set termguicolors
